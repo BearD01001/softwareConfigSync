@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
+	"debug": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "YaHei & SourceCodePro.Medium",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"predawn_sidebar_large": true,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_small": true,
+	"tab_size": 4,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
