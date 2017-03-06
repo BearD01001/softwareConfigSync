@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<FileZilla3 version="3.21.0" platform="windows">
+	<Layout Builddate="2016-08-23" Buildtime="15:03:12">
+		<Resources>
+			<xrc file="certificate.xrc" date="1471957148" />
+			<xrc file="dialogs.xrc" date="1471957148" />
+			<xrc file="inputdialog.xrc" date="1471957148" />
+			<xrc file="menus.xrc" date="1471957148" />
+			<xrc file="netconfwizard.xrc" date="1471957148" />
+			<xrc file="quickconnectbar.xrc" date="1471957148" />
+			<xrc file="settings.xrc" date="1471957148" />
+			<xrc file="sitemanager.xrc" date="1471957148" />
+			<xrc file="toolbar.xrc" date="1471957148" />
+			<xrc file="update.xrc" date="1471957148" />
+		</Resources>
+		<Language id="zh_CN" date="1471957508">
+			<Font font="0;-12;0;0;0;400;0;0;0;1;0;0;0;0;微软雅黑" width="750" height="17" />
+			<Dialog name="Settings" width="511" />
+		</Language>
+	</Layout>
+</FileZilla3>
