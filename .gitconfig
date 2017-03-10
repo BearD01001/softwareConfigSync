@@ -1,0 +1,6 @@
+[user]
+	email = dino@beard.ink
+	name = BearD01001
+[alias]
+	glog = log --pretty=format:\"%C(auto)%h %C(magenta)<%ad> %C(green)[%an] %C(blue normal bold)| %Creset%s%C(auto)%d\" --graph --date=short
+[core]
