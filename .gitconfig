@@ -3,5 +3,5 @@
 	name = BearD01001
 [alias]
 	glog = log --pretty=format:\"%C(auto)%h %C(magenta)<%ad> %C(green)[%an] %C(blue normal bold)| %Creset%s%C(auto)%d\" --graph --date=short
-	gtag = tag -l --format=\"------------%0a%(color:green)%(objectname:short) %(color:magenta)<%(taggerdate:short)> %(color:green)[%(taggername)] %(color:magenta)| %(color:reset)%(refname:short)%0a%(contents)\"
+	gtag = tag -l --format=\"------------%0a%(color:green)%(objectname:short) %(color:magenta)<%(taggerdate:short)> %(color:green)[%(taggername)] %(color:magenta)| %(color:reset)%(refname:short)%0a%(contents)\" --sort=-taggerdate
 [core]
